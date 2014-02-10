@@ -15126,6 +15126,3372 @@
                 "date_year": "1914.0", 
                 "date": "1914-07-04"
             }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4194155, 
+                    37.7749295
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Wester Retail Lumbermen's Association", 
+            "properties": {
+                "": "27212", 
+                "confidence": "9.0", 
+                "transcription": "San Francisco, CA", 
+                "venue": "OTHER,Club", 
+                "date_month": "2", 
+                "dish_count": "14", 
+                "place": "San Francisco Commerical Club", 
+                "date_year": "1915.0", 
+                "date": "1915-02-19"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4194155, 
+                    37.7749295
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Wester Retail Lumbermen's Association", 
+            "properties": {
+                "": "27212", 
+                "confidence": "9.0", 
+                "transcription": "san francisco, ca", 
+                "venue": "OTHER,Club", 
+                "date_month": "2", 
+                "dish_count": "14", 
+                "place": "San Francisco Commerical Club", 
+                "date_year": "1915.0", 
+                "date": "1915-02-19"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40225349999999, 
+                    37.792969799999995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The San Francisco Cabinet National Union", 
+            "properties": {
+                "": "27214", 
+                "confidence": "17.0", 
+                "transcription": "465 California Street San Francisco", 
+                "venue": "OTHER,Club", 
+                "date_month": "10", 
+                "dish_count": "17", 
+                "place": "The San Francisco Commercial Club", 
+                "date_year": "1915.0", 
+                "date": "1915-10-18"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4194155, 
+                    37.7749295
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "San Francisco Commercial Club", 
+            "properties": {
+                "": "27223", 
+                "confidence": "9.0", 
+                "transcription": "San Francisco", 
+                "venue": "OTHER,Club", 
+                "date_month": "11", 
+                "dish_count": "15", 
+                "place": "San Francisco Commercial Club", 
+                "date_year": "1915.0", 
+                "date": "1915-11-23"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4194155, 
+                    37.7749295
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "San Francisco Commercial Club", 
+            "properties": {
+                "": "27223", 
+                "confidence": "9.0", 
+                "transcription": "San francisco", 
+                "venue": "OTHER,Club", 
+                "date_month": "11", 
+                "dish_count": "15", 
+                "place": "San Francisco Commercial Club", 
+                "date_year": "1915.0", 
+                "date": "1915-11-23"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98506641387941, 
+                    40.759399274006206
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Pekin Resraurant", 
+            "properties": {
+                "": "33262", 
+                "confidence": "19.0", 
+                "transcription": "", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "58", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9851254, 
+                    40.759424200000005
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Pekin Resraurant", 
+            "properties": {
+                "": "33262", 
+                "confidence": "16.0", 
+                "transcription": "broadway and 47th st manhattan", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "58", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.62979820000001, 
+                    41.8781136
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "College Inn Chicago", 
+            "properties": {
+                "": "33263", 
+                "confidence": "8.0", 
+                "transcription": "chicago", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "12", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.63094670000001, 
+                    41.884471600000005
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "College Inn Chicago", 
+            "properties": {
+                "": "33263", 
+                "confidence": "19.0", 
+                "transcription": "Clark and Randolph Streets, Chicago, IL", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "12", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98219108581542, 
+                    40.7737493736252
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Thomas Healy", 
+            "properties": {
+                "": "33264", 
+                "confidence": "15.0", 
+                "transcription": "new york ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "51", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98211579999999, 
+                    40.7738432
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Thomas Healy", 
+            "properties": {
+                "": "33264", 
+                "confidence": "19.0", 
+                "transcription": "Broadway at 66th Street, New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "51", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.16407966613771, 
+                    39.9493832902316
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Bellevue - Stratford", 
+            "properties": {
+                "": "33270", 
+                "confidence": "17.0", 
+                "transcription": "broad and walnut, philadelphia, pa", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "22", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.16448199999999, 
+                    39.949028000000006
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Bellevue - Stratford", 
+            "properties": {
+                "": "33270", 
+                "confidence": "18.0", 
+                "transcription": " 200 S. Broad Street Philadelphia", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "22", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.16378900000001, 
+                    39.952335
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Bellevue - Stratford", 
+            "properties": {
+                "": "33270", 
+                "confidence": "9.0", 
+                "transcription": "philadelphia", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "22", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33271", 
+                "confidence": "6.0", 
+                "transcription": "New YOrk, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "22", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.985017, 
+                    40.7481571
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33272", 
+                "confidence": "19.0", 
+                "transcription": "350 fifth ave, nyc", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "18", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0100404620171, 
+                    40.7051318104412
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Delmonicos", 
+            "properties": {
+                "": "33273", 
+                "confidence": "18.0", 
+                "transcription": "56 Beaver St., New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "14", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Delmonicos", 
+            "properties": {
+                "": "33273", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "14", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Sphinx Club", 
+            "properties": {
+                "": "33277", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "23", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97406409999999, 
+                    40.7567283
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Sphinx Club", 
+            "properties": {
+                "": "33277", 
+                "confidence": "18.0", 
+                "transcription": "301 Park Ave, New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "23", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.011647, 
+                    40.701681799999996
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "South Ferry Hotel", 
+            "properties": {
+                "": "33278", 
+                "confidence": "19.0", 
+                "transcription": "6-7 South St., New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "36", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "33279", 
+                "confidence": "8.0", 
+                "transcription": "new york ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "19", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98638890000001, 
+                    40.7577778
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "33279", 
+                "confidence": "17.0", 
+                "transcription": "Astor Plaza, New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "19", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0776417, 
+                    40.7281575
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hof Brau Haus", 
+            "properties": {
+                "": "33282", 
+                "confidence": "13.0", 
+                "transcription": "jersey city, nj", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "18", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9743637, 
+                    40.756528499999995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33285", 
+                "confidence": "19.0", 
+                "transcription": "49th and Park Ave, New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "23", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33292", 
+                "confidence": "8.0", 
+                "transcription": "new york ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.985017, 
+                    40.7481571
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33292", 
+                "confidence": "19.0", 
+                "transcription": "350 fifth avenue ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.0888989, 
+                    42.348856
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Harvard Club", 
+            "properties": {
+                "": "33295", 
+                "confidence": "17.0", 
+                "transcription": "374 commonwealth ave, boston", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "12", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Harvard Hall", 
+            "properties": {
+                "": "33299", 
+                "confidence": "8.0", 
+                "transcription": "new york, ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.03199980000001, 
+                    38.8965284
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The New Willard", 
+            "properties": {
+                "": "33301", 
+                "confidence": "19.0", 
+                "transcription": "1401 Pennsylvania Ave NW, Washington, DC", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "23", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33303", 
+                "confidence": "8.0", 
+                "transcription": "New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "23", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.985658, 
+                    40.7484438
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33305", 
+                "confidence": "17.0", 
+                "transcription": "Empire State Building, New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "22", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9736364, 
+                    40.7567005
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33306", 
+                "confidence": "17.0", 
+                "transcription": "Waldorf Astoria", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "36", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.006824, 
+                    40.648465
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Sherry's", 
+            "properties": {
+                "": "33308", 
+                "confidence": "19.0", 
+                "transcription": "5th Ave. and 44th St., New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "10", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33315", 
+                "confidence": "8.0", 
+                "transcription": "new york city", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "21", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33319", 
+                "confidence": "8.0", 
+                "transcription": "Ny ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "21", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9856556, 
+                    40.748433299999995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33325", 
+                "confidence": "17.0", 
+                "transcription": "350 5th Ave, New York, NY 10118", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9736364, 
+                    40.7567005
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33325", 
+                "confidence": "17.0", 
+                "transcription": "waldorf-astoria, new york city", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9850463, 
+                    40.747766
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33325", 
+                "confidence": "17.0", 
+                "transcription": "33rd street and fifth aveneue ny ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9736364, 
+                    40.7567005
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33328", 
+                "confidence": "17.0", 
+                "transcription": " Waldorf-Astoria in New York", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "22", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33328", 
+                "confidence": "8.0", 
+                "transcription": "New York", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "22", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9948618412018, 
+                    40.740128214435
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "J.B. Greenhut Co.", 
+            "properties": {
+                "": "33330", 
+                "confidence": "17.0", 
+                "transcription": "", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "150", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99489402771, 
+                    40.7401038274394
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "J.B. Greenhut Co.", 
+            "properties": {
+                "": "33330", 
+                "confidence": "16.0", 
+                "transcription": "18th street new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "150", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99479746818541, 
+                    40.7401363434316
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "J.B. Greenhut Co.", 
+            "properties": {
+                "": "33330", 
+                "confidence": "17.0", 
+                "transcription": "sixth ave and 18th st, new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "150", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9948081970215, 
+                    40.740233891312705
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "J.B. Greenhut Co.", 
+            "properties": {
+                "": "33331", 
+                "confidence": "16.0", 
+                "transcription": "18 street new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Keen's English Chop House", 
+            "properties": {
+                "": "33332", 
+                "confidence": "8.0", 
+                "transcription": "New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "12", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9743637, 
+                    40.756528499999995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33337", 
+                "confidence": "19.0", 
+                "transcription": "49th and Park Ave, New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "22", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.3014896, 
+                    37.012267
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Chamberlin", 
+            "properties": {
+                "": "33339", 
+                "confidence": "12.0", 
+                "transcription": "fortress monroe, va", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "52", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.3014896, 
+                    37.012267
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Chamberlin", 
+            "properties": {
+                "": "33339", 
+                "confidence": "12.0", 
+                "transcription": "fortress monroe, va", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "52", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99502159999999, 
+                    40.7398526
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "J.B. Greenhut Co.", 
+            "properties": {
+                "": "33340", 
+                "confidence": "19.0", 
+                "transcription": "6th Ave. and 18th St., New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "134", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.994722366333, 
+                    40.7402013753682
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "J.B. Greenhut Co.", 
+            "properties": {
+                "": "33342", 
+                "confidence": "16.0", 
+                "transcription": "18th street new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "285", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99885450000001, 
+                    40.7422405
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "J.B. Greenhut Co.", 
+            "properties": {
+                "": "33342", 
+                "confidence": "14.0", 
+                "transcription": "Sixth Ave between 18 & 19th Streets, NYC", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "285", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99479746818541, 
+                    40.740185117390006
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "J.B. Greenhut Co.", 
+            "properties": {
+                "": "33342", 
+                "confidence": "17.0", 
+                "transcription": "6th Ave & 18th St., New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "285", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0090995, 
+                    40.7092549
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Mercantile lunch Co.", 
+            "properties": {
+                "": "33348", 
+                "confidence": "19.0", 
+                "transcription": "20 maiden lane, new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "33", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0090995, 
+                    40.7092549
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Mercantile lunch Co.", 
+            "properties": {
+                "": "33348", 
+                "confidence": "19.0", 
+                "transcription": " 20 Maiden Ln., New York", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "33", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0090995, 
+                    40.7092549
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Mercantile lunch Co.", 
+            "properties": {
+                "": "33348", 
+                "confidence": "19.0", 
+                "transcription": "20 Maiden Lane, New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "33", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -117.3961564, 
+                    33.9533487
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Mission Inn", 
+            "properties": {
+                "": "33349", 
+                "confidence": "10.0", 
+                "transcription": "Riverside, CA", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "40", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -72.5811767578125, 
+                    40.9259649395143
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Seaboard Air Line Railway", 
+            "properties": {
+                "": "33350", 
+                "confidence": "9.0", 
+                "transcription": "", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "116", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33353", 
+                "confidence": "8.0", 
+                "transcription": "Ny ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "23", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33353", 
+                "confidence": "8.0", 
+                "transcription": "Ny ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "23", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33370", 
+                "confidence": "8.0", 
+                "transcription": "New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "22", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel St. Andrew", 
+            "properties": {
+                "": "33371", 
+                "confidence": "8.0", 
+                "transcription": "New York", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "12", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9407654, 
+                    40.8024409
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Park Avenue Hotel", 
+            "properties": {
+                "": "33372", 
+                "confidence": "10.0", 
+                "transcription": "park ave, new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Park Avenue Hotel", 
+            "properties": {
+                "": "33372", 
+                "confidence": "8.0", 
+                "transcription": "New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.986135, 
+                    40.758094899999996
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "33373", 
+                "confidence": "19.0", 
+                "transcription": "Hotel Astor, 1515 Broadway, New York City", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33375", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "12", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99502509999999, 
+                    40.7275073
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Broadway Central Hotel", 
+            "properties": {
+                "": "33377", 
+                "confidence": "19.0", 
+                "transcription": "673 Broadway, nyc", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "28", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99502640000001, 
+                    40.7275075
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Broadway Central Hotel", 
+            "properties": {
+                "": "33379", 
+                "confidence": "17.0", 
+                "transcription": "673 broadway, new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "94", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Broadway Central Hotel", 
+            "properties": {
+                "": "33379", 
+                "confidence": "8.0", 
+                "transcription": "New York, NY, USA", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "94", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99502640000001, 
+                    40.7275075
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Broadway Central Hotel", 
+            "properties": {
+                "": "33380", 
+                "confidence": "17.0", 
+                "transcription": " 673 Broadway, New York City", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "253", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9950252, 
+                    40.727507200000005
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Broadway Central Hotel", 
+            "properties": {
+                "": "33380", 
+                "confidence": "19.0", 
+                "transcription": "673 Broadway, New York City", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "253", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99502509999999, 
+                    40.7275073
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Broadway Central Hotel", 
+            "properties": {
+                "": "33384", 
+                "confidence": "18.0", 
+                "transcription": "673 broadway, ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "222", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.3071084, 
+                    37.0026705
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Chamberlin", 
+            "properties": {
+                "": "33387", 
+                "confidence": "10.0", 
+                "transcription": "Fortress Monroe, VA", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "19", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Biltmore", 
+            "properties": {
+                "": "33392", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "21", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9822803, 
+                    40.751581200000004
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Union League Club", 
+            "properties": {
+                "": "33394", 
+                "confidence": "19.0", 
+                "transcription": "Fifth Avenue and East 39th Street, nyc", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "12", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.4423828125, 
+                    37.857507156252
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Commercial Club", 
+            "properties": {
+                "": "33395", 
+                "confidence": "5.0", 
+                "transcription": "", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "14", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    25.2796514, 
+                    54.6871555
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Ansonia", 
+            "properties": {
+                "": "33397", 
+                "confidence": "10.0", 
+                "transcription": "vilnius", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "24", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9789938926697, 
+                    40.753889182701705
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Biltmore", 
+            "properties": {
+                "": "33399", 
+                "confidence": "17.0", 
+                "transcription": "Madison Avenue and 43rd Street, nyc", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "8", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.62979820000001, 
+                    41.8781136
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Restaurant name and/or location not given]", 
+            "properties": {
+                "": "33400", 
+                "confidence": "8.0", 
+                "transcription": "chicago il", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "26", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The National Arts Club", 
+            "properties": {
+                "": "33401", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "11", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.155912399292, 
+                    41.7686230625069
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Lake Mohonk Mountain House", 
+            "properties": {
+                "": "33410", 
+                "confidence": "14.0", 
+                "transcription": "mohonk lake, ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "51", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.33207079999998, 
+                    47.6062095
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The New Washington Hotel", 
+            "properties": {
+                "": "33411", 
+                "confidence": "9.0", 
+                "transcription": "Seattle wa", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "22", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.05977320000001, 
+                    42.358430799999994
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "New American House", 
+            "properties": {
+                "": "33413", 
+                "confidence": "10.0", 
+                "transcription": "boston", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "18", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.05977320000001, 
+                    42.358430799999994
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "New American House", 
+            "properties": {
+                "": "33413", 
+                "confidence": "10.0", 
+                "transcription": "boston", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "18", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9743637, 
+                    40.756528499999995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33430", 
+                "confidence": "17.0", 
+                "transcription": "49th and Park Ave, New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "185", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33438", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "238", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9736364, 
+                    40.7567005
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33438", 
+                "confidence": "17.0", 
+                "transcription": " Waldorf-Astoria", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "238", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9743637, 
+                    40.756528499999995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33438", 
+                "confidence": "19.0", 
+                "transcription": "49th and Park Ave, New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "238", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33439", 
+                "confidence": "8.0", 
+                "transcription": "new york ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "108", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33446", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "232", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33447", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "150", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.985017, 
+                    40.7481571
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33448", 
+                "confidence": "19.0", 
+                "transcription": "350 fifth avenue, nyc", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "136", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9855408, 
+                    40.748298
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33448", 
+                "confidence": "19.0", 
+                "transcription": "350 fifth avenue, nyc", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "136", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33453", 
+                "confidence": "8.0", 
+                "transcription": "Ny ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "18", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.985017, 
+                    40.7481571
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33453", 
+                "confidence": "19.0", 
+                "transcription": "350 fifth avenue, nyc", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "18", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97406409999999, 
+                    40.7567283
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33457", 
+                "confidence": "19.0", 
+                "transcription": "301 Park avenue, ny, ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "231", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.985017, 
+                    40.7481571
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33459", 
+                "confidence": "19.0", 
+                "transcription": "350 fifth avenue ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "107", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33460", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "136", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9736364, 
+                    40.7567005
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33461", 
+                "confidence": "17.0", 
+                "transcription": "Waldorf Astoria", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "234", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33463", 
+                "confidence": "8.0", 
+                "transcription": "new york ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "59", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33464", 
+                "confidence": "8.0", 
+                "transcription": "New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "233", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33464", 
+                "confidence": "8.0", 
+                "transcription": "New York City", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "233", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33466", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "101", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33467", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "234", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33470", 
+                "confidence": "8.0", 
+                "transcription": "New York, New York", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "230", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97406409999999, 
+                    40.7567283
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33470", 
+                "confidence": "19.0", 
+                "transcription": "301 Park avenue, new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "230", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33472", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "234", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97406409999999, 
+                    40.7567283
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33472", 
+                "confidence": "19.0", 
+                "transcription": "301 Park Ave  New York, NY 10022", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "234", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9301037, 
+                    40.7623925
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33473", 
+                "confidence": "12.0", 
+                "transcription": "Waldorf-Astoria, new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "118", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9856779575348, 
+                    40.7484436585825
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33475", 
+                "confidence": "17.0", 
+                "transcription": "empire state building", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "221", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33475", 
+                "confidence": "8.0", 
+                "transcription": "New York City", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "221", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9732110500336, 
+                    40.756473618677504
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33477", 
+                "confidence": "17.0", 
+                "transcription": "waldorf astoria", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "237", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33478", 
+                "confidence": "8.0", 
+                "transcription": "New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "126", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33479", 
+                "confidence": "8.0", 
+                "transcription": "New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "237", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9850463, 
+                    40.747766
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33481", 
+                "confidence": "15.0", 
+                "transcription": "5 avenue & 33 street new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "235", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97406409999999, 
+                    40.7567283
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33483", 
+                "confidence": "19.0", 
+                "transcription": "301 Park Ave  New York, NY 10022", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "86", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33484", 
+                "confidence": "8.0", 
+                "transcription": "new york ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "239", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9743637, 
+                    40.756528499999995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33484", 
+                "confidence": "17.0", 
+                "transcription": "49th and Park Ave, New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "239", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33484", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "239", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.31282850000001, 
+                    41.4901024
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "U.S.S. New York (?)", 
+            "properties": {
+                "": "33485", 
+                "confidence": "11.0", 
+                "transcription": "newport, ri", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "22", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9736364, 
+                    40.7567005
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33487", 
+                "confidence": "17.0", 
+                "transcription": "Waldorf-Astoria, New York", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "241", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9736364, 
+                    40.7567005
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33489", 
+                "confidence": "17.0", 
+                "transcription": "Waldorf Astoria", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "39", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33489", 
+                "confidence": "8.0", 
+                "transcription": "Ny ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "39", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.31282850000001, 
+                    41.4901024
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "U. S. S. Wyoming", 
+            "properties": {
+                "": "33491", 
+                "confidence": "11.0", 
+                "transcription": "newport, ri", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "21", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9853239059448, 
+                    40.748459914541996
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33492", 
+                "confidence": "15.0", 
+                "transcription": "350 5th Ave, New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "77", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -116.2123864, 
+                    51.416787
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Chateau Lake Louise", 
+            "properties": {
+                "": "33498", 
+                "confidence": "19.0", 
+                "transcription": "111 Lake Louise Dr  Lake Louise", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "38", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -116.2123864, 
+                    51.416787
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Chateau Lake Louise", 
+            "properties": {
+                "": "33498", 
+                "confidence": "19.0", 
+                "transcription": "111 Lake Louise Drive, Lake Louise, Alberta, Canada", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "38", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -116.1773193, 
+                    51.4253851
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Chateau Lake Louise", 
+            "properties": {
+                "": "33498", 
+                "confidence": "19.0", 
+                "transcription": "Lake Louise, BC, Canada", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "38", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4082636, 
+                    37.78739229999999
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel St. Francis", 
+            "properties": {
+                "": "33500", 
+                "confidence": "19.0", 
+                "transcription": "Powell & Geary St., San Francisco, CA", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "13", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.77012370000001, 
+                    44.306162799999996
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Thayer's Hotel", 
+            "properties": {
+                "": "33505", 
+                "confidence": "10.0", 
+                "transcription": "littleton, nh", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "36", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.77012370000001, 
+                    44.306162799999996
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Thayer's Hotel", 
+            "properties": {
+                "": "33505", 
+                "confidence": "10.0", 
+                "transcription": "littleton, nh", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "36", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33507", 
+                "confidence": "8.0", 
+                "transcription": "New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "199", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33508", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "235", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97406409999999, 
+                    40.7567283
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33510", 
+                "confidence": "19.0", 
+                "transcription": "301 Park Ave, New York, NY 10022", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "236", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Terrace Garden", 
+            "properties": {
+                "": "33516", 
+                "confidence": "8.0", 
+                "transcription": "Ny ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "28", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33517", 
+                "confidence": "8.0", 
+                "transcription": "Ny ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "51", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9850463, 
+                    40.747766
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33518", 
+                "confidence": "19.0", 
+                "transcription": "Fifth Avenue and 33rd Street , New York City, New York", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "19", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.8295766, 
+                    37.99731729999999
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Homestead", 
+            "properties": {
+                "": "33519", 
+                "confidence": "15.0", 
+                "transcription": "1766 Homestead Dr., Hot Springs, VA", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "104", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.825032055378, 
+                    37.9971223023933
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Homestead", 
+            "properties": {
+                "": "33520", 
+                "confidence": "17.0", 
+                "transcription": "7696 Sam Snead Highway, Hot Springs, VA", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "66", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.831587, 
+                    37.99939929999999
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Homestead", 
+            "properties": {
+                "": "33520", 
+                "confidence": "11.0", 
+                "transcription": "Hot Springs, VA", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "66", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.84815, 
+                    38.001599
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Homestead", 
+            "properties": {
+                "": "33520", 
+                "confidence": "19.0", 
+                "transcription": "The Homestead, Hot Springs, VA", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "66", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.831587, 
+                    37.99939929999999
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Homestead", 
+            "properties": {
+                "": "33521", 
+                "confidence": "14.0", 
+                "transcription": "Hot Springs, Virginia", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "92", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.831587, 
+                    37.99939929999999
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Homestead", 
+            "properties": {
+                "": "33522", 
+                "confidence": "11.0", 
+                "transcription": "Hot Springs, VA", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "64", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.991281, 
+                    40.732445899999995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel St. Denis", 
+            "properties": {
+                "": "33526", 
+                "confidence": "19.0", 
+                "transcription": " Broadway and E. 11th St., New York", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "15", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33532", 
+                "confidence": "8.0", 
+                "transcription": "new york ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "13", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33532", 
+                "confidence": "8.0", 
+                "transcription": "new york, ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "13", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33532", 
+                "confidence": "8.0", 
+                "transcription": "New York City", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "13", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33532", 
+                "confidence": "8.0", 
+                "transcription": "Ny ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "13", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9736364, 
+                    40.7567005
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "33535", 
+                "confidence": "17.0", 
+                "transcription": "waldorf astoria , new york city", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "156", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    139.6380256, 
+                    35.4437078
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Oriental Palace Hotel", 
+            "properties": {
+                "": "33538", 
+                "confidence": "9.0", 
+                "transcription": "Yokohama, Japan", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "13", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    139.6380256, 
+                    35.4437078
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Oriental Palace Hotel", 
+            "properties": {
+                "": "33538", 
+                "confidence": "9.0", 
+                "transcription": "Yokohama, Japan", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "13", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.11982439999997, 
+                    51.511213899999994
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Mansion House", 
+            "properties": {
+                "": "33539", 
+                "confidence": "9.0", 
+                "transcription": "london, england", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "10", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98848890000001, 
+                    40.7467947
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hofbräu Haus", 
+            "properties": {
+                "": "33541", 
+                "confidence": "19.0", 
+                "transcription": "30th st and broadway, new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "47", 
+                "place": "", 
+                "date_year": "1915.0", 
+                "date": "1915-01-01"
+            }
         }
     ]
 }
