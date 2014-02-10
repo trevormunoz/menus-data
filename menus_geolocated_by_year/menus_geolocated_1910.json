@@ -1,0 +1,457 @@
+{
+    "crs": {
+        "type": "name", 
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }, 
+    "type": "FeatureCollection", 
+    "bbox": [
+        -122.4194155, 
+        -33.9248685, 
+        32.532241, 
+        59.984904
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4194155, 
+                    37.7749295
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "National Parlor No. 118", 
+            "properties": {
+                "": "27109", 
+                "confidence": "6.0", 
+                "transcription": "San Francisco, CA", 
+                "venue": "HOTEL", 
+                "date_month": "9", 
+                "dish_count": "17", 
+                "place": "Fairmont Hotel", 
+                "date_year": "1910.0", 
+                "date": "1910-09-08"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4194155, 
+                    37.7749295
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "National Parlor No. 118", 
+            "properties": {
+                "": "27109", 
+                "confidence": "9.0", 
+                "transcription": "San Francisco ca", 
+                "venue": "HOTEL", 
+                "date_month": "9", 
+                "dish_count": "17", 
+                "place": "Fairmont Hotel", 
+                "date_year": "1910.0", 
+                "date": "1910-09-08"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "NORDEUTCHER LLOYD, BREMEN", 
+            "properties": {
+                "": "27417", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "STEAMSHIP", 
+                "date_month": "3", 
+                "dish_count": "91", 
+                "place": "ABOARD GEORGE WASHINGTON", 
+                "date_year": "1910.0", 
+                "date": "1910-03-17"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    13.406091199999999, 
+                    52.51917099999999
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "TURKISH AMBASSADOR", 
+            "properties": {
+                "": "27418", 
+                "confidence": "8.0", 
+                "transcription": "berlin", 
+                "venue": "OTHER (RESIDENCE?)", 
+                "date_month": "3", 
+                "dish_count": "10", 
+                "place": "BERLIN [GERMANY]", 
+                "date_year": "1910.0", 
+                "date": "1910-03-18"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    13.406091199999999, 
+                    52.51917099999999
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "TURKISH AMBASSADOR", 
+            "properties": {
+                "": "27418", 
+                "confidence": "8.0", 
+                "transcription": "Berlin germany", 
+                "venue": "OTHER (RESIDENCE?)", 
+                "date_month": "3", 
+                "dish_count": "10", 
+                "place": "BERLIN [GERMANY]", 
+                "date_year": "1910.0", 
+                "date": "1910-03-18"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.05977320000001, 
+                    42.358430799999994
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "MERCHANTS' CLUB OF BOSTON", 
+            "properties": {
+                "": "27450", 
+                "confidence": "10.0", 
+                "transcription": "Boston ma", 
+                "venue": "OTHER [PRIVATE CLUB?]", 
+                "date_month": "3", 
+                "dish_count": "18", 
+                "place": "ALGONQUIN CLUB", 
+                "date_year": "1910.0", 
+                "date": "1910-03-15"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.081913, 
+                    42.351436
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "BOSTON PAPER TRADE ASSOCIATION", 
+            "properties": {
+                "": "27463", 
+                "confidence": "19.0", 
+                "transcription": "217 Commonwealth Ave, Boston, MA", 
+                "venue": "OTHER (CLUB)", 
+                "date_month": "3", 
+                "dish_count": "18", 
+                "place": "ALGONQUIN CLUB [NEW YORK, NY?]", 
+                "date_year": "1910.0", 
+                "date": "1910-03-16"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.0818648338318, 
+                    42.3513448823635
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "BOSTON PAPER TRADE ASSOCIATION", 
+            "properties": {
+                "": "27463", 
+                "confidence": "18.0", 
+                "transcription": "217 Commonwealth Ave, Boston, MA 02116, United States", 
+                "venue": "OTHER (CLUB)", 
+                "date_month": "3", 
+                "dish_count": "18", 
+                "place": "ALGONQUIN CLUB [NEW YORK, NY?]", 
+                "date_year": "1910.0", 
+                "date": "1910-03-16"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.6324324, 
+                    41.8820022
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Nordeutscher Lloyd Bremen   On Board S.S. 'George Washington.", 
+            "properties": {
+                "": "27485", 
+                "confidence": "17.0", 
+                "transcription": "LaSalle St and Madison St., Chicago, IL", 
+                "venue": "", 
+                "date_month": "3", 
+                "dish_count": "13", 
+                "place": "", 
+                "date_year": "1910.0", 
+                "date": "1910-03-17"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.424055300000003, 
+                    -33.9248685
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Complimentary Banquet, Mount Nelson Hotel Cape Town, S.A.", 
+            "properties": {
+                "": "27498", 
+                "confidence": "7.0", 
+                "transcription": "Cape Town, S.A.", 
+                "venue": "", 
+                "date_month": "3", 
+                "dish_count": "19", 
+                "place": "", 
+                "date_year": "1910.0", 
+                "date": "1910-03-12"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.61092190000001, 
+                    43.16103
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Rochester Chamber Of Commerce Convention Hall, Dinner.", 
+            "properties": {
+                "": "27505", 
+                "confidence": "10.0", 
+                "transcription": "rochester", 
+                "venue": "", 
+                "date_month": "3", 
+                "dish_count": "22", 
+                "place": "", 
+                "date_year": "1910.0", 
+                "date": "1910-03-18"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.7166776, 
+                    59.984904
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Grand Hotel, Kristiania, Menu.", 
+            "properties": {
+                "": "27507", 
+                "confidence": "8.0", 
+                "transcription": "Kristiana, Norway", 
+                "venue": "", 
+                "date_month": "3", 
+                "dish_count": "13", 
+                "place": "", 
+                "date_year": "1910.0", 
+                "date": "1910-03-19"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.998009, 
+                    40.745952
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Twenty Third Annual Dinner Of The New York Florist's Club At The Fifth Avenue Restaurant.", 
+            "properties": {
+                "": "27531", 
+                "confidence": "15.0", 
+                "transcription": " 24th St. and Broadway New York", 
+                "venue": "", 
+                "date_month": "3", 
+                "dish_count": "26", 
+                "place": "", 
+                "date_year": "1910.0", 
+                "date": "1910-03-17"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.93092159999999, 
+                    32.776565600000005
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Dinner, The New Charleston Hotel, Charleston, S.C.", 
+            "properties": {
+                "": "27544", 
+                "confidence": "8.0", 
+                "transcription": "charleston s.c.", 
+                "venue": "", 
+                "date_month": "3", 
+                "dish_count": "45", 
+                "place": "", 
+                "date_year": "1910.0", 
+                "date": "1910-03-15"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    32.532241, 
+                    15.550101000000002
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Dinner At The Sudan Club.", 
+            "properties": {
+                "": "27568", 
+                "confidence": "10.0", 
+                "transcription": "Khartoum", 
+                "venue": "", 
+                "date_month": "3", 
+                "dish_count": "12", 
+                "place": "", 
+                "date_year": "1910.0", 
+                "date": "1910-03-16"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9596944, 
+                    40.7604331
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Founders' Day Banquet, The New York Club Of Phi Sigma Kappa", 
+            "properties": {
+                "": "27594", 
+                "confidence": "17.0", 
+                "transcription": "Hotel Manhattan, New York, NY", 
+                "venue": "", 
+                "date_month": "3", 
+                "dish_count": "16", 
+                "place": "", 
+                "date_year": "1910.0", 
+                "date": "1910-03-12"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Founders' Day Banquet, The New York Club Of Phi Sigma Kappa", 
+            "properties": {
+                "": "27594", 
+                "confidence": "8.0", 
+                "transcription": "Ny ny", 
+                "venue": "", 
+                "date_month": "3", 
+                "dish_count": "16", 
+                "place": "", 
+                "date_year": "1910.0", 
+                "date": "1910-03-12"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98447220000001, 
+                    40.759011
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Founders' Day Banquet, The New York Club Of Phi Sigma Kappa", 
+            "properties": {
+                "": "27594", 
+                "confidence": "14.0", 
+                "transcription": "Times Square, New York, NY", 
+                "venue": "", 
+                "date_month": "3", 
+                "dish_count": "16", 
+                "place": "", 
+                "date_year": "1910.0", 
+                "date": "1910-03-12"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99280300000001, 
+                    40.7428904
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Menu, Theatre Supper Of New York State Association Of Master Plumbers", 
+            "properties": {
+                "": "27629", 
+                "confidence": "19.0", 
+                "transcription": " 23rd St. and 6th Ave., New York", 
+                "venue": "", 
+                "date_month": "3", 
+                "dish_count": "13", 
+                "place": "", 
+                "date_year": "1910.0", 
+                "date": "1910-03-09"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Annual Dinner Of The New York University Alumni Association, Waldorf Astoria", 
+            "properties": {
+                "": "27638", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "3", 
+                "dish_count": "21", 
+                "place": "", 
+                "date_year": "1910.0", 
+                "date": "1910-03-14"
+            }
+        }
+    ]
+}

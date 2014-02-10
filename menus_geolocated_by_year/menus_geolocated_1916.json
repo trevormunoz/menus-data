@@ -1,0 +1,3779 @@
+{
+    "crs": {
+        "type": "name", 
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }, 
+    "type": "FeatureCollection", 
+    "bbox": [
+        -122.681265, 
+        20.0211651, 
+        12.373074699999998, 
+        51.515833492864296
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.46441709999999, 
+                    37.872704399999996
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Corinthian Cooks & Waiters Union No. 23", 
+            "properties": {
+                "": "27207", 
+                "confidence": "14.0", 
+                "transcription": "Belvedere, Cal.", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "9", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-01-09"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "32088", 
+                "confidence": "8.0", 
+                "transcription": "New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "405", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-01-02"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "32089", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "342", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-01-03"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "32089", 
+                "confidence": "8.0", 
+                "transcription": "New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "342", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-01-03"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Manhattan", 
+            "properties": {
+                "": "32090", 
+                "confidence": "8.0", 
+                "transcription": "New York", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "16", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-01-08"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.979941, 
+                    40.7547891
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Delmonicos", 
+            "properties": {
+                "": "32091", 
+                "confidence": "19.0", 
+                "transcription": "5th Ave and 44th street nyc", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "13", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-01-08"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9785494, 
+                    40.7537719
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Biltmore", 
+            "properties": {
+                "": "32097", 
+                "confidence": "19.0", 
+                "transcription": " 335 Madison Avenue new york ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "16", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-01-15"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Biltmore", 
+            "properties": {
+                "": "32097", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "16", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-01-15"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.977056, 
+                    40.752998
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Biltmore", 
+            "properties": {
+                "": "32097", 
+                "confidence": "15.0", 
+                "transcription": "Grand Central Terminal, New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "16", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-01-15"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -107.29028390000002, 
+                    43.075967799999994
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "[Restaurant name and/or location not given]", 
+            "properties": {
+                "": "32101", 
+                "confidence": "5.0", 
+                "transcription": "wyoming", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "11", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-01-25"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9838067, 
+                    40.7407732
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "69th Infantry Armory", 
+            "properties": {
+                "": "32104", 
+                "confidence": "19.0", 
+                "transcription": "lexington ave at 25th st, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "9", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01316899999999, 
+                    40.706681
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "47 broadway, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.009068, 
+                    40.710285999999996
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "194-196 broadway, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.006286, 
+                    40.714639
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "285 broadway, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.004292, 
+                    40.717216
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "351 broadway, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0011315, 
+                    40.7201368
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "440 broadway, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99264170000001, 
+                    40.730615
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "753 broadway, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.991478, 
+                    40.733075
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "815 broadway, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.988491, 
+                    40.746882899999996
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "1233 broadway, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9867821, 
+                    40.754791100000006
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "1437 broadway, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98623719999999, 
+                    40.756426
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "1485 broadway, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98547690000001, 
+                    40.7583359
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "1546 broadway, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9853561, 
+                    40.7587599
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "1553 broadway, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9823657, 
+                    40.773906
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "1953 broadway, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9946921, 
+                    40.7191843
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "142 bowery, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0132755, 
+                    40.7050174
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "3 beaver st, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00740019999999, 
+                    40.7051717
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "wall and water st, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0112857, 
+                    40.7104193
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "31 cortlandt st, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0100354, 
+                    40.7112938
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "176 fulton st, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0034893, 
+                    40.7141287
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "23 duane st, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0076292, 
+                    40.7113931
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "23-25 park row, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00354200000001, 
+                    40.712053000000004
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "102-106 park row, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00995329999999, 
+                    40.7156193
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "148 chambers st, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9931265, 
+                    40.730846299999996
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "66 e 8th st, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99207, 
+                    40.7347663
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "123 university pl, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99155440000001, 
+                    40.735105700000005
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "42 e 14th st, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99510169999999, 
+                    40.739137299999996
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "55-61 w 17th st, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9929023, 
+                    40.73884210000001
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "10 w 18th st, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9883635, 
+                    40.7409034
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "10-12 e 23rd st, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99373, 
+                    40.742976
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "118 w 23rd st, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9890905, 
+                    40.7486514
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "104 w 32nd st, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98709079999999, 
+                    40.748701200000006
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "41 w 33rd st, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98688, 
+                    40.748963
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "18.0", 
+                "transcription": "36 w 34th st, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98805490000001, 
+                    40.7498864
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "108-110 w 34th st, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9878315, 
+                    40.7547983
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "143 w 40th st, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98006590000001, 
+                    40.753463
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "1 e 42nd st, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9783795, 
+                    40.752436100000004
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "47 e 42nd st, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9841887, 
+                    40.7548938
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "109 w 42nd st, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9848033, 
+                    40.7692093
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "300 w 59th st, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.93823459999999, 
+                    40.804916600000006
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "111 e 125th st, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9508727, 
+                    40.809929100000005
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "272-274 w 125th st, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99006999999999, 
+                    40.741444
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "184 fifth ave, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.988334, 
+                    40.743815999999995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "222 fifth ave, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0030343, 
+                    40.7275154
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "219-221 sixth ave, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0023745, 
+                    40.7292781
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "270 sixth ave, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.999634, 
+                    40.7332151
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "388-390 sixth ave, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99974, 
+                    40.7336376
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "403 sixth ave, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9979708, 
+                    40.73576920000001
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "472-474 sixth ave, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.986024, 
+                    40.6651
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "527-529 sixth ave, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9953488, 
+                    40.7393759
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "602 sixth ave, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.990708, 
+                    40.750403000000006
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "425 seventh ave, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0139657, 
+                    40.7064781
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "23 trinity place, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.988014, 
+                    40.691393
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "18.0", 
+                "transcription": "366 fulton st, brooklyn, ny", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.981726, 
+                    40.688854
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "530 fulton st, brooklyn, ny", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9907242, 
+                    40.693058
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "court and remsen st, brooklyn, ny", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.171364, 
+                    40.735119
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "194 market st, newark", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.1705353, 
+                    40.738929399999996
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "673 broad st, newark", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.152796, 
+                    39.949195
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "706 chestnut st, philadelphia", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.15692259999999, 
+                    39.94997670000001
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "932 chestnut st, philadelphia", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.16078399999999, 
+                    39.950066
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "1208 chestnut st, philadelphia", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.1606932, 
+                    39.9520394
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "1201-1203 market st, philadelphia", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.1653643, 
+                    39.9510434
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "1435 chestnut st, philadelphia", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.15674809999999, 
+                    39.9515159
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "1000 market st, philadelphia", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.15241209999999, 
+                    39.9565889
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "eighth and vine st, philadelphia", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.9991002, 
+                    40.44027
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "351-353 fifth ave, pittsburgh", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.97635129999999, 
+                    40.4553054
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "12.0", 
+                "transcription": "federal st and liberty ave, pittsburgh", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.6349562, 
+                    41.883185299999994
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "267-275 washington st, chicago", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.0625944, 
+                    42.3527682
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "605-609 washington st, boston", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.0579813, 
+                    42.35368629999999
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "92 summer st, boston", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.0580147, 
+                    42.353703700000004
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "302 devonshire st, boston", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.62963609999998, 
+                    41.8831795
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "55 w washington st, chicago", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.630371, 
+                    41.880674299999995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "75 w monroe st, chicago", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.6330243, 
+                    41.881987
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "165-167 w madison st, chicago", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.1914008, 
+                    38.6279855
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "214-218 north 7th st, st louis", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.19020479999999, 
+                    38.6254717
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "515-517 market st, st louis", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.5561204, 
+                    45.499823600000006
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "232-234 mcgill st, montreal", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.5575641, 
+                    45.4933001
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "142-144 peel st, montreal", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.3789736, 
+                    43.651659499999994
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "19.0", 
+                "transcription": "156-158 yonge st, toronto", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.434624, 
+                    39.3717389
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Childs", 
+            "properties": {
+                "": "32105", 
+                "confidence": "18.0", 
+                "transcription": "boardwalk and tennessee ave, atlantic city", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "120", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.0715323, 
+                    29.9510658
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The St. Charles", 
+            "properties": {
+                "": "32108", 
+                "confidence": "9.0", 
+                "transcription": "new orleans", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "108", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-12"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.0589155, 
+                    42.3591135
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Young's Hotel", 
+            "properties": {
+                "": "32110", 
+                "confidence": "17.0", 
+                "transcription": "Court St., Boston, MA", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-12"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95, 
+                    40.65
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Long Island Business College Hall", 
+            "properties": {
+                "": "32111", 
+                "confidence": "9.0", 
+                "transcription": "Brooklyn ny", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "20", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-12"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9861714839935, 
+                    40.7578064331838
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "32116", 
+                "confidence": "18.0", 
+                "transcription": "1515 Broadway, New York City", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "15", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-21"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "32116", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "15", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-21"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.681265, 
+                    45.515448
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "University Club", 
+            "properties": {
+                "": "32117", 
+                "confidence": "19.0", 
+                "transcription": "1225 SW 6th Avenue, Portland, OR", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "15", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-22"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0363658, 
+                    38.895111799999995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Willard's Tavern", 
+            "properties": {
+                "": "32120", 
+                "confidence": "9.0", 
+                "transcription": "washington dc", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "26", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-26"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0363658, 
+                    38.895111799999995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The New Willard Hotel", 
+            "properties": {
+                "": "32121", 
+                "confidence": "9.0", 
+                "transcription": "washington dc", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "24", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-02-26"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0103872, 
+                    40.704978100000005
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Delmonicos", 
+            "properties": {
+                "": "32126", 
+                "confidence": "17.0", 
+                "transcription": "56 Beaver St, NY NY", 
+                "venue": "", 
+                "date_month": "3", 
+                "dish_count": "12", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-03-11"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Delmonicos", 
+            "properties": {
+                "": "32126", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "3", 
+                "dish_count": "12", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-03-11"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32129", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "3", 
+                "dish_count": "16", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-03-19"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32140", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "4", 
+                "dish_count": "15", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-04-02"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32140", 
+                "confidence": "8.0", 
+                "transcription": "Ny ny", 
+                "venue": "", 
+                "date_month": "4", 
+                "dish_count": "15", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-04-02"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.11367209999999, 
+                    20.0211651
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "U. S. S. Florida", 
+            "properties": {
+                "": "32141", 
+                "confidence": "11.0", 
+                "transcription": "guantanamo bay, cuba", 
+                "venue": "", 
+                "date_month": "4", 
+                "dish_count": "19", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-04-05"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Keen's English Chop House", 
+            "properties": {
+                "": "32146", 
+                "confidence": "8.0", 
+                "transcription": "new york ny", 
+                "venue": "", 
+                "date_month": "4", 
+                "dish_count": "10", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-04-11"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32150", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "4", 
+                "dish_count": "16", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-04-16"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.2184829711914, 
+                    40.090351523393394
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Laurel in the Pines", 
+            "properties": {
+                "": "32151", 
+                "confidence": "14.0", 
+                "transcription": "lake carasaljo lakewood, nj", 
+                "venue": "", 
+                "date_month": "4", 
+                "dish_count": "60", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-04-16"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.20970140000001, 
+                    40.082128999999995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Laurel in the Pines", 
+            "properties": {
+                "": "32151", 
+                "confidence": "10.0", 
+                "transcription": "Lakewood nj", 
+                "venue": "", 
+                "date_month": "4", 
+                "dish_count": "60", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-04-16"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.20970140000001, 
+                    40.082128999999995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Laurel in the Pines", 
+            "properties": {
+                "": "32151", 
+                "confidence": "10.0", 
+                "transcription": "Lakewood, NJ", 
+                "venue": "", 
+                "date_month": "4", 
+                "dish_count": "60", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-04-16"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32155", 
+                "confidence": "8.0", 
+                "transcription": "New York", 
+                "venue": "", 
+                "date_month": "4", 
+                "dish_count": "15", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-04-30"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32155", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "4", 
+                "dish_count": "15", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-04-30"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32158", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "5", 
+                "dish_count": "14", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-05-14"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9879605, 
+                    40.7498589
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32158", 
+                "confidence": "19.0", 
+                "transcription": "broadway & 34th st.", 
+                "venue": "", 
+                "date_month": "5", 
+                "dish_count": "14", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-05-14"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32160", 
+                "confidence": "8.0", 
+                "transcription": "new york, ny", 
+                "venue": "", 
+                "date_month": "5", 
+                "dish_count": "15", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-05-21"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99469029999999, 
+                    40.7402714
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "McAlpin Lunch Co.", 
+            "properties": {
+                "": "32161", 
+                "confidence": "18.0", 
+                "transcription": " 626 6th Ave., New York", 
+                "venue": "", 
+                "date_month": "5", 
+                "dish_count": "85", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-05-27"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9876627922058, 
+                    40.749461680379206
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32164", 
+                "confidence": "18.0", 
+                "transcription": "50 West 34 Street, New York, New York", 
+                "venue": "", 
+                "date_month": "6", 
+                "dish_count": "14", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-06-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.989317, 
+                    40.7570441
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "N.Y. Lunch", 
+            "properties": {
+                "": "32165", 
+                "confidence": "19.0", 
+                "transcription": "261 w 42nd st, new york", 
+                "venue": "", 
+                "date_month": "6", 
+                "dish_count": "94", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-06-09"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99908020000001, 
+                    40.744229600000004
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "N.Y. Lunch", 
+            "properties": {
+                "": "32165", 
+                "confidence": "19.0", 
+                "transcription": "224 eighth ave, new york", 
+                "venue": "", 
+                "date_month": "6", 
+                "dish_count": "94", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-06-09"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98958409999999, 
+                    40.757156
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "N.Y. Lunch", 
+            "properties": {
+                "": "32165", 
+                "confidence": "19.0", 
+                "transcription": " 261 W. 42nd St., New York", 
+                "venue": "", 
+                "date_month": "6", 
+                "dish_count": "94", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-06-09"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99889399999999, 
+                    40.744161
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "N.Y. Lunch", 
+            "properties": {
+                "": "32165", 
+                "confidence": "17.0", 
+                "transcription": " 224  eighth Avenue New York", 
+                "venue": "", 
+                "date_month": "6", 
+                "dish_count": "94", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-06-09"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98958409999999, 
+                    40.757156
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "N.Y. Lunch", 
+            "properties": {
+                "": "32165", 
+                "confidence": "19.0", 
+                "transcription": "261 West 42nd Street, New York, NY", 
+                "venue": "", 
+                "date_month": "6", 
+                "dish_count": "94", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-06-09"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99889399999999, 
+                    40.744161
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "N.Y. Lunch", 
+            "properties": {
+                "": "32165", 
+                "confidence": "19.0", 
+                "transcription": "224 Eighth Avenue, New York, NY", 
+                "venue": "", 
+                "date_month": "6", 
+                "dish_count": "94", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-06-09"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9879605, 
+                    40.7498589
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32167", 
+                "confidence": "18.0", 
+                "transcription": "broadway & 34th st. ny", 
+                "venue": "", 
+                "date_month": "6", 
+                "dish_count": "16", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-06-11"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.0888989, 
+                    42.348856
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Harvard Club", 
+            "properties": {
+                "": "32171", 
+                "confidence": "19.0", 
+                "transcription": " 374 Commonwealth Ave., Boston", 
+                "venue": "", 
+                "date_month": "6", 
+                "dish_count": "15", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-06-21"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.05977320000001, 
+                    42.358430799999994
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Harvard Club", 
+            "properties": {
+                "": "32171", 
+                "confidence": "10.0", 
+                "transcription": "Boston, MA", 
+                "venue": "", 
+                "date_month": "6", 
+                "dish_count": "15", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-06-21"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01208170000001, 
+                    40.2203907
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Columbia and Cottages", 
+            "properties": {
+                "": "32176", 
+                "confidence": "13.0", 
+                "transcription": "north asbury park, nj", 
+                "venue": "", 
+                "date_month": "6", 
+                "dish_count": "53", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-06-28"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01208170000001, 
+                    40.2203907
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Columbia and Cottages", 
+            "properties": {
+                "": "32176", 
+                "confidence": "13.0", 
+                "transcription": "North Asbury Park, NJ", 
+                "venue": "", 
+                "date_month": "6", 
+                "dish_count": "53", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-06-28"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01208170000001, 
+                    40.2203907
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Columbia and Cottages", 
+            "properties": {
+                "": "32176", 
+                "confidence": "13.0", 
+                "transcription": "North Asbury Park, NJ", 
+                "venue": "", 
+                "date_month": "6", 
+                "dish_count": "53", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-06-28"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01208170000001, 
+                    40.2203907
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Columbia and Cottages", 
+            "properties": {
+                "": "32177", 
+                "confidence": "13.0", 
+                "transcription": "north asbury park, nj", 
+                "venue": "", 
+                "date_month": "6", 
+                "dish_count": "45", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-06-28"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01208170000001, 
+                    40.2203907
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Columbia and Cottages", 
+            "properties": {
+                "": "32177", 
+                "confidence": "13.0", 
+                "transcription": "North asbury park nj", 
+                "venue": "", 
+                "date_month": "6", 
+                "dish_count": "45", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-06-28"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01208170000001, 
+                    40.2203907
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Columbia and Cottages", 
+            "properties": {
+                "": "32180", 
+                "confidence": "13.0", 
+                "transcription": "North Asbury Park, NJ", 
+                "venue": "", 
+                "date_month": "6", 
+                "dish_count": "48", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-06-29"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32181", 
+                "confidence": "8.0", 
+                "transcription": "new york ny", 
+                "venue": "", 
+                "date_month": "7", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-07-02"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9879605, 
+                    40.7498589
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32182", 
+                "confidence": "19.0", 
+                "transcription": "Broadway & 34th St., New York, NY", 
+                "venue": "", 
+                "date_month": "7", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-07-09"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.6157896, 
+                    39.299457399999994
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "private residence of Mayor Jas. H. Preston", 
+            "properties": {
+                "": "32185", 
+                "confidence": "19.0", 
+                "transcription": "820 n charles st, baltimore, md", 
+                "venue": "", 
+                "date_month": "7", 
+                "dish_count": "28", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-07-13"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.6157896, 
+                    39.299457399999994
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "private residence of Mayor Jas. H. Preston", 
+            "properties": {
+                "": "32185", 
+                "confidence": "19.0", 
+                "transcription": "820 north Charles st Baltimore md", 
+                "venue": "", 
+                "date_month": "7", 
+                "dish_count": "28", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-07-13"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32187", 
+                "confidence": "8.0", 
+                "transcription": "Ny ny", 
+                "venue": "", 
+                "date_month": "7", 
+                "dish_count": "16", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-07-16"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.987287, 
+                    40.749476
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32187", 
+                "confidence": "19.0", 
+                "transcription": "50 W 34th St., NY, NY", 
+                "venue": "", 
+                "date_month": "7", 
+                "dish_count": "16", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-07-16"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.6155277, 
+                    39.3023314
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Belvedere", 
+            "properties": {
+                "": "32189", 
+                "confidence": "19.0", 
+                "transcription": "1 e Chase ST Baltimore MD", 
+                "venue": "", 
+                "date_month": "7", 
+                "dish_count": "178", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-07-10"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99594240000002, 
+                    40.3147931
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Port-au-Peck", 
+            "properties": {
+                "": "32197", 
+                "confidence": "16.0", 
+                "transcription": "Pleasure Bay, Long Branch, NJ", 
+                "venue": "", 
+                "date_month": "7", 
+                "dish_count": "11", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-07-29"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32200", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "7", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-07-30"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9879605, 
+                    40.7498589
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32200", 
+                "confidence": "19.0", 
+                "transcription": "Broadway & 34th St.", 
+                "venue": "", 
+                "date_month": "7", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-07-30"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.31282850000001, 
+                    41.4901024
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "U.S.S. Arkansas", 
+            "properties": {
+                "": "32201", 
+                "confidence": "11.0", 
+                "transcription": "newport, ri", 
+                "venue": "", 
+                "date_month": "7", 
+                "dish_count": "22", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-07-31"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "32214", 
+                "confidence": "8.0", 
+                "transcription": "New York, NY, USA", 
+                "venue": "", 
+                "date_month": "8", 
+                "dish_count": "234", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-08-20"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9879605, 
+                    40.7498589
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32217", 
+                "confidence": "19.0", 
+                "transcription": "broadway & 34th, nyc", 
+                "venue": "", 
+                "date_month": "8", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-08-27"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32220", 
+                "confidence": "8.0", 
+                "transcription": "New York, NY", 
+                "venue": "", 
+                "date_month": "9", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-09-03"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9876166, 
+                    40.7503206
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32223", 
+                "confidence": "15.0", 
+                "transcription": "herald square, new york", 
+                "venue": "", 
+                "date_month": "9", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-09-10"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32226", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "9", 
+                "dish_count": "16", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-09-24"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9876166, 
+                    40.7503206
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32226", 
+                "confidence": "18.0", 
+                "transcription": "Herald Square, New York, NY", 
+                "venue": "", 
+                "date_month": "9", 
+                "dish_count": "16", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-09-24"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9879605, 
+                    40.7498589
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32227", 
+                "confidence": "18.0", 
+                "transcription": "Broadway and 34th street, New York City, NY", 
+                "venue": "", 
+                "date_month": "10", 
+                "dish_count": "11", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-10-26"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9803786, 
+                    40.7574088
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Delmonicos", 
+            "properties": {
+                "": "32230", 
+                "confidence": "19.0", 
+                "transcription": "40 West 47th St., New York City", 
+                "venue": "", 
+                "date_month": "11", 
+                "dish_count": "10", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-11-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.971713, 
+                    40.76481679999999
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Metropolitan Club", 
+            "properties": {
+                "": "32231", 
+                "confidence": "17.0", 
+                "transcription": "1 e 60th st. new york", 
+                "venue": "", 
+                "date_month": "11", 
+                "dish_count": "10", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-11-09"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0921070575714111, 
+                    51.515833492864296
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Guildhall", 
+            "properties": {
+                "": "32232", 
+                "confidence": "17.0", 
+                "transcription": "Guildhall, Gresham Street, london", 
+                "venue": "", 
+                "date_month": "11", 
+                "dish_count": "4", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-11-09"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9845579, 
+                    40.7484329
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "32238", 
+                "confidence": "15.0", 
+                "transcription": "350 5th Ave, New York, NY", 
+                "venue": "", 
+                "date_month": "11", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-11-18"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.4229266, 
+                    39.3642834
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Traymore", 
+            "properties": {
+                "": "32241", 
+                "confidence": "11.0", 
+                "transcription": "atlantic city, nj", 
+                "venue": "", 
+                "date_month": "11", 
+                "dish_count": "252", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-11-30"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.4229266, 
+                    39.3642834
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Traymore", 
+            "properties": {
+                "": "32241", 
+                "confidence": "11.0", 
+                "transcription": "atlantic city", 
+                "venue": "", 
+                "date_month": "11", 
+                "dish_count": "252", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-11-30"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "32244", 
+                "confidence": "10.0", 
+                "transcription": "Hotel Astor ny", 
+                "venue": "", 
+                "date_month": "12", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-12-02"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.006824, 
+                    40.648465
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Delmonicos", 
+            "properties": {
+                "": "32246", 
+                "confidence": "19.0", 
+                "transcription": "Fifth Avenue and 44th Street, nyc", 
+                "venue": "", 
+                "date_month": "12", 
+                "dish_count": "11", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-12-06"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98486690000001, 
+                    40.7533843
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Café des Beaux Arts", 
+            "properties": {
+                "": "32247", 
+                "confidence": "19.0", 
+                "transcription": "80 W. 40th St., NY, NY", 
+                "venue": "", 
+                "date_month": "12", 
+                "dish_count": "23", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-12-08"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Biltmore", 
+            "properties": {
+                "": "32249", 
+                "confidence": "8.0", 
+                "transcription": "new york, usa", 
+                "venue": "", 
+                "date_month": "12", 
+                "dish_count": "19", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-12-09"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9229898, 
+                    40.7608581
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32250", 
+                "confidence": "19.0", 
+                "transcription": "broadway & 34th, new york, new york", 
+                "venue": "", 
+                "date_month": "12", 
+                "dish_count": "9", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-12-15"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32250", 
+                "confidence": "8.0", 
+                "transcription": "New York, NY", 
+                "venue": "", 
+                "date_month": "12", 
+                "dish_count": "9", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-12-15"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.373074699999998, 
+                    51.339695500000005
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "[Restaurant name and/or location not given]", 
+            "properties": {
+                "": "32251", 
+                "confidence": "9.0", 
+                "transcription": "Leipzig, Germany", 
+                "venue": "", 
+                "date_month": "12", 
+                "dish_count": "4", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-12-15"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9594291, 
+                    40.7778545
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "32252", 
+                "confidence": "19.0", 
+                "transcription": "park avenue, new york, ny", 
+                "venue": "", 
+                "date_month": "12", 
+                "dish_count": "19", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-12-19"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9743637, 
+                    40.756528499999995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "32252", 
+                "confidence": "19.0", 
+                "transcription": "49th and Park Ave, New York, NY", 
+                "venue": "", 
+                "date_month": "12", 
+                "dish_count": "19", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-12-19"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32255", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "12", 
+                "dish_count": "25", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-12-25"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32255", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "12", 
+                "dish_count": "25", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-12-25"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "32255", 
+                "confidence": "8.0", 
+                "transcription": "Ny ny", 
+                "venue": "", 
+                "date_month": "12", 
+                "dish_count": "25", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-12-25"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -106.4869314, 
+                    31.758719800000005
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Camp Stewart", 
+            "properties": {
+                "": "32256", 
+                "confidence": "8.0", 
+                "transcription": "camp stewart el paso texas", 
+                "venue": "", 
+                "date_month": "12", 
+                "dish_count": "30", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-12-25"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -106.4869314, 
+                    31.758719800000005
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Camp Stewart", 
+            "properties": {
+                "": "32256", 
+                "confidence": "9.0", 
+                "transcription": "el paso, tx", 
+                "venue": "", 
+                "date_month": "12", 
+                "dish_count": "30", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-12-25"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -106.4869314, 
+                    31.758719800000005
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Camp Stewart", 
+            "properties": {
+                "": "32256", 
+                "confidence": "9.0", 
+                "transcription": "Camp Stewart, El Paso, Texas", 
+                "venue": "", 
+                "date_month": "12", 
+                "dish_count": "30", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-12-25"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -106.4361142, 
+                    31.7909633
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Camp Stewart", 
+            "properties": {
+                "": "32256", 
+                "confidence": "10.0", 
+                "transcription": "Pennsylvania Ave, El Paso, TX", 
+                "venue": "", 
+                "date_month": "12", 
+                "dish_count": "30", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-12-25"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97210600000001, 
+                    40.700292299999994
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "[Restaurant name and/or location not given]", 
+            "properties": {
+                "": "32258", 
+                "confidence": "14.0", 
+                "transcription": "Brooklyn Navy Yard", 
+                "venue": "", 
+                "date_month": "12", 
+                "dish_count": "18", 
+                "place": "", 
+                "date_year": "1916.0", 
+                "date": "1916-12-25"
+            }
+        }
+    ]
+}

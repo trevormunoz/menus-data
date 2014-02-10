@@ -1,0 +1,1469 @@
+{
+    "crs": {
+        "type": "name", 
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }, 
+    "type": "FeatureCollection", 
+    "bbox": [
+        -104.82136340000001, 
+        38.6270025, 
+        -0.0920319557189941, 
+        51.5158201397885
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -72.6506715, 
+                    41.5614328
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "[Restaurant Name And/Or Location Not Given]", 
+            "properties": {
+                "": "31660", 
+                "confidence": "18.0", 
+                "transcription": "381 Main St, Middletown, CT 06457", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "10", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-02-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Commodore", 
+            "properties": {
+                "": "31661", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "18", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-02-07"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.975776, 
+                    40.685608
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Young Men's Christian Association", 
+            "properties": {
+                "": "31663", 
+                "confidence": "18.0", 
+                "transcription": "55 hanson place, brooklyn", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "13", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-02-12"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.975776, 
+                    40.685608
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Young Men's Christian Association", 
+            "properties": {
+                "": "31663", 
+                "confidence": "19.0", 
+                "transcription": "55 hanson place, brooklyn", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "13", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-02-12"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "31668", 
+                "confidence": "8.0", 
+                "transcription": "New York", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "6", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-02-13"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.1994042, 
+                    38.6270025
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Washington Hotel", 
+            "properties": {
+                "": "31670", 
+                "confidence": "9.0", 
+                "transcription": "st louis", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-02-20"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -94.586274, 
+                    39.100501
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Muehlebach", 
+            "properties": {
+                "": "31673", 
+                "confidence": "19.0", 
+                "transcription": " 200 W. 12th St., Kansas City, MO", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "10", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-02-21"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "31675", 
+                "confidence": "8.0", 
+                "transcription": "Ny ny", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "12", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-02-22"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.986135, 
+                    40.758094899999996
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "31678", 
+                "confidence": "19.0", 
+                "transcription": "1515 broadway,nyc", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "16", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-02-25"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9895926, 
+                    40.7415437
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Aldine Club Rooms", 
+            "properties": {
+                "": "31681", 
+                "confidence": "18.0", 
+                "transcription": "5th avenue & 23rd street, new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "14", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-02-28"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "31685", 
+                "confidence": "8.0", 
+                "transcription": "New York", 
+                "venue": "", 
+                "date_month": "3", 
+                "dish_count": "15", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-03-16"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.986135, 
+                    40.758094899999996
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "31685", 
+                "confidence": "19.0", 
+                "transcription": "1515 broadway, nyc", 
+                "venue": "", 
+                "date_month": "3", 
+                "dish_count": "15", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-03-16"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "[Restaurant Name And/Or Location Not Given]", 
+            "properties": {
+                "": "31687", 
+                "confidence": "7.0", 
+                "transcription": "new york city", 
+                "venue": "", 
+                "date_month": "3", 
+                "dish_count": "9", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-03-17"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.986135, 
+                    40.758094899999996
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "31688", 
+                "confidence": "19.0", 
+                "transcription": "1515 Broadway, New York City", 
+                "venue": "", 
+                "date_month": "3", 
+                "dish_count": "18", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-03-17"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "31696", 
+                "confidence": "8.0", 
+                "transcription": "New York, NY", 
+                "venue": "", 
+                "date_month": "4", 
+                "dish_count": "12", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-04-11"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9851308, 
+                    40.7588954
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "31698", 
+                "confidence": "19.0", 
+                "transcription": "times square, manhattan", 
+                "venue": "", 
+                "date_month": "4", 
+                "dish_count": "7", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-04-20"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.4229266, 
+                    39.3642834
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Traymore", 
+            "properties": {
+                "": "31701", 
+                "confidence": "11.0", 
+                "transcription": "atlantic city", 
+                "venue": "", 
+                "date_month": "4", 
+                "dish_count": "7", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-04-24"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.4229266, 
+                    39.3642834
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Traymore", 
+            "properties": {
+                "": "31701", 
+                "confidence": "11.0", 
+                "transcription": "atlantic city", 
+                "venue": "", 
+                "date_month": "4", 
+                "dish_count": "7", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-04-24"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.11982439999997, 
+                    51.511213899999994
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Savoy Hotel", 
+            "properties": {
+                "": "31704", 
+                "confidence": "8.0", 
+                "transcription": "london", 
+                "venue": "", 
+                "date_month": "4", 
+                "dish_count": "22", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-04-29"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.11982439999997, 
+                    51.511213899999994
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Savoy Hotel", 
+            "properties": {
+                "": "31704", 
+                "confidence": "9.0", 
+                "transcription": "london", 
+                "venue": "", 
+                "date_month": "4", 
+                "dish_count": "22", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-04-29"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.987383, 
+                    40.741284
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Metropolitan Club", 
+            "properties": {
+                "": "31705", 
+                "confidence": "19.0", 
+                "transcription": "1 Madison Avenue, NY NY", 
+                "venue": "", 
+                "date_month": "4", 
+                "dish_count": "11", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-04-28"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9905199, 
+                    40.7460245
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Mouquin Restaurant And Wine Co.", 
+            "properties": {
+                "": "31708", 
+                "confidence": "19.0", 
+                "transcription": "6th avenue & 28th st., new york", 
+                "venue": "", 
+                "date_month": "5", 
+                "dish_count": "384", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-05-13"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9904737472534, 
+                    40.746037732758104
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Mouquin Restaurant And Wine Co.", 
+            "properties": {
+                "": "31709", 
+                "confidence": "16.0", 
+                "transcription": "454-456-458 Sixth Avenue New York City", 
+                "venue": "", 
+                "date_month": "5", 
+                "dish_count": "432", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-05-14"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Mouquin Restaurant And Wine Co.", 
+            "properties": {
+                "": "31710", 
+                "confidence": "8.0", 
+                "transcription": "Ny ny", 
+                "venue": "", 
+                "date_month": "5", 
+                "dish_count": "448", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-05-14"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9907741546631, 
+                    40.746249067567504
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Mouquin Restaurant And Wine Co.", 
+            "properties": {
+                "": "31711", 
+                "confidence": "15.0", 
+                "transcription": "28th street new york", 
+                "venue": "", 
+                "date_month": "5", 
+                "dish_count": "399", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-05-15"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00033570000001, 
+                    40.725652200000006
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Mouquin Restaurant And Wine Co.", 
+            "properties": {
+                "": "31712", 
+                "confidence": "19.0", 
+                "transcription": "133 Prince Street, New York City, New York 10012, Verenigde Staten", 
+                "venue": "", 
+                "date_month": "5", 
+                "dish_count": "194", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-05-15"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0002913, 
+                    40.725559600000004
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Mouquin Restaurant And Wine Co.", 
+            "properties": {
+                "": "31718", 
+                "confidence": "19.0", 
+                "transcription": "131 prince street, ny, ny", 
+                "venue": "", 
+                "date_month": "5", 
+                "dish_count": "343", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-05-19"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.996160030365, 
+                    40.74854119428
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Mouquin Restaurant And Wine Co.", 
+            "properties": {
+                "": "31718", 
+                "confidence": "16.0", 
+                "transcription": "6th avenue and 28th street, ny, ny", 
+                "venue": "", 
+                "date_month": "5", 
+                "dish_count": "343", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-05-19"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99803790000001, 
+                    40.735146
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Mouquin Restaurant And Wine Co.", 
+            "properties": {
+                "": "31718", 
+                "confidence": "19.0", 
+                "transcription": "454-456-458 6th Ave., New York, NY", 
+                "venue": "", 
+                "date_month": "5", 
+                "dish_count": "343", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-05-19"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97928809999999, 
+                    40.752809
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Manhattan", 
+            "properties": {
+                "": "31721", 
+                "confidence": "16.0", 
+                "transcription": "madison ave and 42 street", 
+                "venue": "", 
+                "date_month": "5", 
+                "dish_count": "105", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-05-26"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Transportation Club", 
+            "properties": {
+                "": "31722", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "5", 
+                "dish_count": "84", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-05-26"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9783869, 
+                    40.7522593
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Manhattan", 
+            "properties": {
+                "": "31724", 
+                "confidence": "19.0", 
+                "transcription": "Madison Ave. @ 42nd St., New York, NY", 
+                "venue": "", 
+                "date_month": "6", 
+                "dish_count": "167", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-06-13"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97928809999999, 
+                    40.752809
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Manhattan", 
+            "properties": {
+                "": "31726", 
+                "confidence": "19.0", 
+                "transcription": "madison ave and 42nd st, new york", 
+                "venue": "", 
+                "date_month": "6", 
+                "dish_count": "162", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-06-30"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97928809999999, 
+                    40.752809
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Manhattan", 
+            "properties": {
+                "": "31726", 
+                "confidence": "19.0", 
+                "transcription": "madison ave at 42nd st, new york", 
+                "venue": "", 
+                "date_month": "6", 
+                "dish_count": "162", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-06-30"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Manhattan", 
+            "properties": {
+                "": "31728", 
+                "confidence": "8.0", 
+                "transcription": "Ny ny", 
+                "venue": "", 
+                "date_month": "6", 
+                "dish_count": "41", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-06-20"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9158082, 
+                    40.757479700000005
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "31730", 
+                "confidence": "19.0", 
+                "transcription": "Broadway street and west 44th Street, New York", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "18", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-01-15"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "31739", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "16", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-01-31"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Astor Tavern", 
+            "properties": {
+                "": "31740", 
+                "confidence": "12.0", 
+                "transcription": "New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-01-19"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.986135, 
+                    40.758094899999996
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "31741", 
+                "confidence": "19.0", 
+                "transcription": "1515 broadway, nyc", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "12", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-01-20"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.986135, 
+                    40.758094899999996
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "31742", 
+                "confidence": "16.0", 
+                "transcription": "Hotel Astor, 1515 Broadway, New York City", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "12", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-01-23"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98638890000001, 
+                    40.7577778
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "31743", 
+                "confidence": "17.0", 
+                "transcription": "One Astor Plaza, New York, NY 10036, USA", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "14", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-01-23"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Waldorf Astoria", 
+            "properties": {
+                "": "31744", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "14", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-01-27"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "[Restaurant Name And/Or Location Not Given]", 
+            "properties": {
+                "": "31746", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "12", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-01-29"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9743637, 
+                    40.756528499999995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Waldorf Astoria", 
+            "properties": {
+                "": "31747", 
+                "confidence": "19.0", 
+                "transcription": "49th st. and Park Ave, NY NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "13", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-01-29"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0043628, 
+                    40.7420221
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Waldorf Astoria", 
+            "properties": {
+                "": "31747", 
+                "confidence": "19.0", 
+                "transcription": "waldorf astoria ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "13", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-01-29"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Ritz Carlton", 
+            "properties": {
+                "": "31753", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "8", 
+                "dish_count": "9", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-08-23"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Ritz Carlton", 
+            "properties": {
+                "": "31753", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "8", 
+                "dish_count": "9", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-08-23"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "31754", 
+                "confidence": "8.0", 
+                "transcription": "New York, NY", 
+                "venue": "", 
+                "date_month": "7", 
+                "dish_count": "15", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-07-20"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9818705, 
+                    44.2883921
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Lake Placid Club", 
+            "properties": {
+                "": "31757", 
+                "confidence": "13.0", 
+                "transcription": "Mirror Lake, Lake Placid NY", 
+                "venue": "", 
+                "date_month": "9", 
+                "dish_count": "21", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-09-10"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -83.7430378, 
+                    42.2808256
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "University Of Michigan", 
+            "properties": {
+                "": "31760", 
+                "confidence": "10.0", 
+                "transcription": "Ann Arbor, MI", 
+                "venue": "", 
+                "date_month": "10", 
+                "dish_count": "12", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-10-15"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0920319557189941, 
+                    51.5158201397885
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Guildhall", 
+            "properties": {
+                "": "31763", 
+                "confidence": "18.0", 
+                "transcription": "Guildhall, Gresham Street, London EC2V 7HH", 
+                "venue": "", 
+                "date_month": "11", 
+                "dish_count": "23", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-11-09"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9743637, 
+                    40.756528499999995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "31766", 
+                "confidence": "19.0", 
+                "transcription": "49th and Park Ave, New York, NY", 
+                "venue": "", 
+                "date_month": "11", 
+                "dish_count": "15", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-11-30"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.031257, 
+                    38.896986
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Gridiron Club", 
+            "properties": {
+                "": "31767", 
+                "confidence": "17.0", 
+                "transcription": "529 14th St NW, Washington, DC, United States", 
+                "venue": "", 
+                "date_month": "12", 
+                "dish_count": "21", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-12-11"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9743637, 
+                    40.756528499999995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "31768", 
+                "confidence": "19.0", 
+                "transcription": "49th and Park Ave, New York, NY", 
+                "venue": "", 
+                "date_month": "12", 
+                "dish_count": "20", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-12-16"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "31769", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "12", 
+                "dish_count": "16", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-12-15"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -104.82136340000001, 
+                    38.8338816
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Union Printers Home", 
+            "properties": {
+                "": "31772", 
+                "confidence": "9.0", 
+                "transcription": "colorado springs, co", 
+                "venue": "", 
+                "date_month": "12", 
+                "dish_count": "39", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-12-25"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -104.82136340000001, 
+                    38.8338816
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Union Printers Home", 
+            "properties": {
+                "": "31772", 
+                "confidence": "9.0", 
+                "transcription": "Colorado Springs, CO", 
+                "venue": "", 
+                "date_month": "12", 
+                "dish_count": "39", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-12-25"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -104.82136340000001, 
+                    38.8338816
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Union Printers Home", 
+            "properties": {
+                "": "31772", 
+                "confidence": "9.0", 
+                "transcription": "Colorado Springs, Colorado", 
+                "venue": "", 
+                "date_month": "12", 
+                "dish_count": "39", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-12-25"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9868125, 
+                    40.7576744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "31773", 
+                "confidence": "17.0", 
+                "transcription": "1515 Broadway, New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-01-03"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "31773", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-01-03"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "31773", 
+                "confidence": "8.0", 
+                "transcription": "New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-01-03"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "31774", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "16", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-01-03"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Alpine Club", 
+            "properties": {
+                "": "31775", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "15", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-01-03"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Alpine Club", 
+            "properties": {
+                "": "31775", 
+                "confidence": "10.0", 
+                "transcription": "New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "15", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-01-03"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9879605, 
+                    40.7498589
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Mc Alpin", 
+            "properties": {
+                "": "31777", 
+                "confidence": "19.0", 
+                "transcription": "Broadway and 34th ST, New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-01-07"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98638890000001, 
+                    40.7577778
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "31781", 
+                "confidence": "17.0", 
+                "transcription": " Astor Plaza New York", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "18", 
+                "place": "", 
+                "date_year": "1920.0", 
+                "date": "1920-01-17"
+            }
+        }
+    ]
+}

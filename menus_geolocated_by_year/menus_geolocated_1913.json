@@ -1,0 +1,1623 @@
+{
+    "crs": {
+        "type": "name", 
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }, 
+    "type": "FeatureCollection", 
+    "bbox": [
+        -104.9847179, 
+        -39.9326909, 
+        175.0140332, 
+        50.0755381
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.3132083, 
+                    29.894263899999995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Valencia", 
+            "properties": {
+                "": "34381", 
+                "confidence": "11.0", 
+                "transcription": "st. augustine, florida", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "33", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.3132083, 
+                    29.894263899999995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Valencia", 
+            "properties": {
+                "": "34381", 
+                "confidence": "11.0", 
+                "transcription": "St. Augustine, FL", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "33", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.48486328125, 
+                    38.043765107439704
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Phoenix Hotel", 
+            "properties": {
+                "": "34384", 
+                "confidence": "8.0", 
+                "transcription": "", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "14", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.50371640000002, 
+                    38.040583700000006
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Phoenix Hotel", 
+            "properties": {
+                "": "34384", 
+                "confidence": "9.0", 
+                "transcription": "lexington, ky", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "14", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9743637, 
+                    40.756528499999995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "34387", 
+                "confidence": "17.0", 
+                "transcription": "49th and Park Ave, New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "140", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-02"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.601426, 
+                    40.712570899999996
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Holland House", 
+            "properties": {
+                "": "34389", 
+                "confidence": "15.0", 
+                "transcription": "Holland House, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9864397, 
+                    40.7558224
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Knickerbocker", 
+            "properties": {
+                "": "34390", 
+                "confidence": "19.0", 
+                "transcription": "broadway and 42nd st, new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "23", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-04"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.95, 
+                    40.65
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Aurora Grata Cathedral", 
+            "properties": {
+                "": "34397", 
+                "confidence": "9.0", 
+                "transcription": " Brooklyn New York", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "24", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-08"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.07656300000001, 
+                    42.3492692
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Copley Plaza", 
+            "properties": {
+                "": "34398", 
+                "confidence": "19.0", 
+                "transcription": " 138 St. James Avenue Boston", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-08"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.0763568, 
+                    42.3492633
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Copley Plaza", 
+            "properties": {
+                "": "34403", 
+                "confidence": "19.0", 
+                "transcription": "138 St. James Ave, Boston, MA", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "12", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-11"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.0763568, 
+                    42.3492633
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Copley Plaza", 
+            "properties": {
+                "": "34403", 
+                "confidence": "19.0", 
+                "transcription": " 138 St. James Avenue Boston", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "12", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-11"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.0762858390808, 
+                    42.3491326784118
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Copley Plaza", 
+            "properties": {
+                "": "34403", 
+                "confidence": "17.0", 
+                "transcription": "138 Saint James Ave., Boston", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "12", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-11"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.07656300000001, 
+                    42.3492692
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Copley Plaza", 
+            "properties": {
+                "": "34403", 
+                "confidence": "19.0", 
+                "transcription": " 138 St. James Avenue Boston", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "12", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-11"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.0763568, 
+                    42.3492633
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Copley Plaza", 
+            "properties": {
+                "": "34403", 
+                "confidence": "18.0", 
+                "transcription": "138 St. James Ave., Boston, MA", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "12", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-11"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -104.9847179, 
+                    39.737567
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Albany Hotel", 
+            "properties": {
+                "": "34404", 
+                "confidence": "9.0", 
+                "transcription": "Denver co", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "18", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-11"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.62979820000001, 
+                    41.8781136
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Blackstone", 
+            "properties": {
+                "": "34405", 
+                "confidence": "8.0", 
+                "transcription": "Chicago, IL", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "19", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-11"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Knickerbocker", 
+            "properties": {
+                "": "34406", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "15", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-11"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9864397, 
+                    40.7558224
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Knickerbocker", 
+            "properties": {
+                "": "34413", 
+                "confidence": "18.0", 
+                "transcription": " Broadway and 42nd St., New York", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "16", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-15"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.63094670000001, 
+                    41.884471600000005
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Sherman", 
+            "properties": {
+                "": "34414", 
+                "confidence": "19.0", 
+                "transcription": "Clark and Randolph Streets, Chicago, IL", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "16", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-15"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Plaza", 
+            "properties": {
+                "": "34417", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "14", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-15"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.0715323, 
+                    29.9510658
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The St. Charles", 
+            "properties": {
+                "": "34418", 
+                "confidence": "9.0", 
+                "transcription": "New Orleans, LA", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "20", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-15"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.985017, 
+                    40.7481571
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "34420", 
+                "confidence": "19.0", 
+                "transcription": "350 fifth avenue, nyc", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "35", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-16"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.62979820000001, 
+                    41.8781136
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Blackstone", 
+            "properties": {
+                "": "34422", 
+                "confidence": "8.0", 
+                "transcription": "chicago", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "11", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-17"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "34425", 
+                "confidence": "8.0", 
+                "transcription": "New York", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "21", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-18"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.97449, 
+                    40.764696
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Plaza", 
+            "properties": {
+                "": "34428", 
+                "confidence": "19.0", 
+                "transcription": "768 5th avenue, New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "16", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-18"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "34429", 
+                "confidence": "8.0", 
+                "transcription": "New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "19", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-18"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0084552764893, 
+                    40.7117235014329
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Astor House", 
+            "properties": {
+                "": "34433", 
+                "confidence": "18.0", 
+                "transcription": "broadway & vesey new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-18"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.01133060455321, 
+                    40.712996220402296
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Astor House", 
+            "properties": {
+                "": "34433", 
+                "confidence": "17.0", 
+                "transcription": " Broadway & Barclay Street , NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-18"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9981478, 
+                    40.7457315
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hammonds Popular Price Restaurant", 
+            "properties": {
+                "": "34437", 
+                "confidence": "19.0", 
+                "transcription": "266 eighth ave, chelsea", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "205", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-18"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.99502640000001, 
+                    40.7275075
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Broadway Central Hotel New York", 
+            "properties": {
+                "": "34441", 
+                "confidence": "17.0", 
+                "transcription": "673 Broadway, New York City, ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "41", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-19"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9743637, 
+                    40.756528499999995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "34444", 
+                "confidence": "19.0", 
+                "transcription": "49th and Park Ave, New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "19", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-19"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    14.4378005, 
+                    50.0755381
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Gemeinde Haus Restaurant", 
+            "properties": {
+                "": "34446", 
+                "confidence": "9.0", 
+                "transcription": "prague", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-19"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    14.4378005, 
+                    50.0755381
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Gemeinde Haus Restaurant", 
+            "properties": {
+                "": "34446", 
+                "confidence": "9.0", 
+                "transcription": "Prague", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-19"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9947653, 
+                    40.7278005
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Broadway Central Hotel New York", 
+            "properties": {
+                "": "34447", 
+                "confidence": "19.0", 
+                "transcription": "Broadway and 3rd St, NYC", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "39", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-19"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.9064736, 
+                    43.0389025
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Pfister", 
+            "properties": {
+                "": "34449", 
+                "confidence": "9.0", 
+                "transcription": "Milwaukee, Wisconsin", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "20", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-20"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.011156, 
+                    40.7103455
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "The Cortlandt", 
+            "properties": {
+                "": "34452", 
+                "confidence": "19.0", 
+                "transcription": "61 Cortlandt St, NYC", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "103", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-21"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.74293840000001, 
+                    40.2170534
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Sterling", 
+            "properties": {
+                "": "34456", 
+                "confidence": "11.0", 
+                "transcription": "Trenton nj", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "28", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-22"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.03646409999999, 
+                    38.9072309
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "New Willard Hotel", 
+            "properties": {
+                "": "34458", 
+                "confidence": "9.0", 
+                "transcription": "washington, dc", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "23", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-22"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "34467", 
+                "confidence": "8.0", 
+                "transcription": "New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "22", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-23"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Marie Antoinette Hotel", 
+            "properties": {
+                "": "34468", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "14", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-23"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "MetLife Building", 
+            "properties": {
+                "": "34469", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "10", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-23"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "34471", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "21", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-24"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.053913, 
+                    42.3643141
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "American Houe", 
+            "properties": {
+                "": "34472", 
+                "confidence": "14.0", 
+                "transcription": "Hanover Street Boston MA", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-24"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.15647290000001, 
+                    42.415392499999996
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "American Houe", 
+            "properties": {
+                "": "34472", 
+                "confidence": "12.0", 
+                "transcription": "arlington, ma", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-24"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Manhattan", 
+            "properties": {
+                "": "34473", 
+                "confidence": "8.0", 
+                "transcription": "Ny ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "22", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-25"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9694954, 
+                    40.762136299999995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Liederkranz Club", 
+            "properties": {
+                "": "34475", 
+                "confidence": "19.0", 
+                "transcription": "111 e 58th st, new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "56", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-25"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96931500000001, 
+                    40.76229
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Liederkranz Club", 
+            "properties": {
+                "": "34475", 
+                "confidence": "17.0", 
+                "transcription": "111 East 58th Street, New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "56", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-25"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98638890000001, 
+                    40.7577778
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "34476", 
+                "confidence": "16.0", 
+                "transcription": "1 Astor Plaza, New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "16", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-25"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -72.0995209, 
+                    41.3556539
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Mohican Hotel", 
+            "properties": {
+                "": "34481", 
+                "confidence": "11.0", 
+                "transcription": "New london ct", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "23", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-27"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -72.0995209, 
+                    41.3556539
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Mohican Hotel", 
+            "properties": {
+                "": "34481", 
+                "confidence": "11.0", 
+                "transcription": "New London, CT", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "23", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-27"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.98638890000001, 
+                    40.7577778
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "34485", 
+                "confidence": "17.0", 
+                "transcription": " one Astor Plaza New York", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-27"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "34488", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "18", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-28"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Astor", 
+            "properties": {
+                "": "34488", 
+                "confidence": "8.0", 
+                "transcription": "New York", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "18", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-28"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    175.0140332, 
+                    -39.9326909
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Leathersellers' Hall", 
+            "properties": {
+                "": "34490", 
+                "confidence": "17.0", 
+                "transcription": "St. Helen's Place, E.C.", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "29", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-29"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9389213, 
+                    40.8401451
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel McAlpin", 
+            "properties": {
+                "": "34492", 
+                "confidence": "12.0", 
+                "transcription": "Washington Heights, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "16", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-29"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9743637, 
+                    40.756528499999995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "34497", 
+                "confidence": "19.0", 
+                "transcription": "49th and Park Ave, New York, NY", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "15", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-29"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "34497", 
+                "confidence": "8.0", 
+                "transcription": "Ny ny", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "15", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-29"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.986598, 
+                    40.742765000000006
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Madison Square Garden", 
+            "properties": {
+                "": "34498", 
+                "confidence": "19.0", 
+                "transcription": "26th St & Madison Avenue, NYC", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "23", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-30"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.06987629999999, 
+                    29.9523065
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "St. Charles Hotel", 
+            "properties": {
+                "": "34503", 
+                "confidence": "16.0", 
+                "transcription": " 135 St. Charles Avenue New Orleans", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "49", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-31"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.0715323, 
+                    29.9510658
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "St. Charles Hotel", 
+            "properties": {
+                "": "34503", 
+                "confidence": "9.0", 
+                "transcription": "New Orleans, LA", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "49", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-31"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.0698855, 
+                    29.9520201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "St. Charles Hotel", 
+            "properties": {
+                "": "34503", 
+                "confidence": "18.0", 
+                "transcription": "215 st. Charles st., new orleans", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "49", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-31"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.0763568, 
+                    42.3492633
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Copley Plaza Hotel", 
+            "properties": {
+                "": "34504", 
+                "confidence": "19.0", 
+                "transcription": "138 St James Ave, Boston", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "9", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-31"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.05977320000001, 
+                    42.358430799999994
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Copley Plaza Hotel", 
+            "properties": {
+                "": "34504", 
+                "confidence": "10.0", 
+                "transcription": "Boston, MA, USA", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "9", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-31"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0363658, 
+                    38.895111799999995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "University Club", 
+            "properties": {
+                "": "34506", 
+                "confidence": "9.0", 
+                "transcription": "Washington, D.C.", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "22", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-31"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.03646409999999, 
+                    38.9072309
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "University Club", 
+            "properties": {
+                "": "34506", 
+                "confidence": "9.0", 
+                "transcription": "Washington dc", 
+                "venue": "", 
+                "date_month": "1", 
+                "dish_count": "22", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-01-31"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.031257, 
+                    38.896986
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "New Willard", 
+            "properties": {
+                "": "34905", 
+                "confidence": "17.0", 
+                "transcription": "529 14th St. NW, Washington, DC", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "23", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-02-01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Lafayette", 
+            "properties": {
+                "": "34930", 
+                "confidence": "8.0", 
+                "transcription": "new york", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "20", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-02-05"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.66241219999999, 
+                    41.408969
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Casey", 
+            "properties": {
+                "": "34935", 
+                "confidence": "10.0", 
+                "transcription": "Scranton, PA", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "30", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-02-06"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.985658, 
+                    40.7484438
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "34939", 
+                "confidence": "17.0", 
+                "transcription": "Empire State Building, New York", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "20", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-02-07"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.00597309999999, 
+                    40.7143528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "34948", 
+                "confidence": "8.0", 
+                "transcription": "nw york city", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "19", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-02-11"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.9064736, 
+                    43.0389025
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Pfister", 
+            "properties": {
+                "": "34971", 
+                "confidence": "8.0", 
+                "transcription": "miwaukee", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "17", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-02-18"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.05977320000001, 
+                    42.358430799999994
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Hotel Copley-Plaza", 
+            "properties": {
+                "": "34973", 
+                "confidence": "10.0", 
+                "transcription": "Boston, MA", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "20", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-02-18"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.985658, 
+                    40.7484438
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "Waldorf Astoria", 
+            "properties": {
+                "": "34975", 
+                "confidence": "17.0", 
+                "transcription": "Empire State Building, New York, NY", 
+                "venue": "", 
+                "date_month": "2", 
+                "dish_count": "18", 
+                "place": "", 
+                "date_year": "1913.0", 
+                "date": "1913-02-19"
+            }
+        }
+    ]
+}
